@@ -41,6 +41,7 @@ streamlit run recom_app.py
 - 🎉 **Better UI with Images & Ratings**
 - 🔄 **Hybrid Recommendation (Collaborative + Content-Based)**
 - 🛠️ **Allow Users to Rate & Improve Suggestions**
+![Result](https://raw.githubusercontent.com/fatma20010/movie-recommendation-stystem-using-surpise/main/Capture%20d'%C3%A9cran%202025-02-20%20232700.png)
 
 ## ✅ Contributing
 Feel free to **fork** this repository and submit **pull requests**! 🚀
