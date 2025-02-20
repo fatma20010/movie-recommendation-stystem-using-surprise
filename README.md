@@ -36,12 +36,13 @@ streamlit run recom_app.py
 1. **Enter a User ID** to get personalized movie recommendations.
 2. Click on **"Get Recommendations"** to see the top 5 movie suggestions.
 3. Enjoy the enhanced UI with a **cool background effect & glowing text**.
+**Result**
+![Result](https://github.com/fatma20010/movie-recommendation-stystem-using-surprise/blob/main/Capture%20d'%C3%A9cran%202025-02-20%20232700.png?raw=true)
 
 ## 🌟 Future Enhancements
 - 🎉 **Better UI with Images & Ratings**
 - 🔄 **Hybrid Recommendation (Collaborative + Content-Based)**
 - 🛠️ **Allow Users to Rate & Improve Suggestions**
-![Result](https://github.com/fatma20010/movie-recommendation-stystem-using-surprise/blob/main/Capture%20d'%C3%A9cran%202025-02-20%20232700.png?raw=true)
 
 ## ✅ Contributing
 Feel free to **fork** this repository and submit **pull requests**! 🚀
