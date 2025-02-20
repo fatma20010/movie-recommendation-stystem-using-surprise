@@ -45,6 +45,7 @@ streamlit run recom_app.py
 ## ✅ Contributing
 Feel free to **fork** this repository and submit **pull requests**! 🚀
 
+
 ## ✉ Contact
 For questions, reach out at **fatmahammedi51@gmail.com** or connect via [LinkedIn](www.linkedin.com/in/fatmahammedi).
 
