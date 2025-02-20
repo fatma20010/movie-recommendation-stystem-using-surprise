@@ -2,8 +2,4 @@ streamlit==1.42.2
 scikit-learn
 scikit-surprise==1.1.4
 pandas==2.2.3
-<<<<<<< HEAD
 numpy==1.26.4
-=======
-numpy==1.26.4
->>>>>>> 620c8dd281cccf099530e785e80685186c0a9996
